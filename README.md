@@ -1,2 +1,6 @@
 # ginger-color-project
-Site que descobre tintas e tonalizantes para cada tom de ruivo por meio da foto do ruivo desejado
+Site em que colocamos a foto do cabelo ruivo e nos entrega opções de tintas e tonalizantes no mercado que se assemelham aquele da foto.
+A ideia inicial é receber a foto coletar o tom hexadecimal e comparar com tons parecidos no banco.
+
+## Modelo Banco de Dados
+![modelo-db-ginger-color](https://github.com/gabrielaSant0s/ginger-color-project/assets/68717544/8d685236-892d-4adf-8181-eec3fa50fceb)
